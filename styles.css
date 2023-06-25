@@ -1,10 +1,13 @@
 /*  your css code here. If applicable */
 li{
+	list-style:no-bullets;
 	display:inline;
 	margin-right:1rem;
-	list-style:no-bullets;
 }
 nav{
 	background-color:#D3D3D3;
 	padding:10px;
+}
+.list{
+	display:flex;
 }
